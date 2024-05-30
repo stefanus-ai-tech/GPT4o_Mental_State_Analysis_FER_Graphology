@@ -1,7 +1,5 @@
 # GPT4o_Mental_State_Analysis_FER_Graphology
 
-# GPT4o_Mental_State_Analysis_FER_Graphology
-
 Welcome to the **GPT4o Mental State Analysis FER Graphology** project! This tutorial will guide you through setting up and running a simple Python application that analyzes mental state using face and handwriting images via the OpenAI API.
 
 ## Prerequisites
